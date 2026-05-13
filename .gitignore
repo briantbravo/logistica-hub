@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+/media
+/staticfiles
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.next/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# Testing
+.pytest_cache/
+.tox/
+coverage.xml
+*.cover
+
+# Production
+.cache
+.parcel-cache
+out/
+dist/
+
+# OS
+Thumbs.db
+.DS_Store
